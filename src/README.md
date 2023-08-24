@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) has been transforming industries and aspects of our daily lives at an unprecedented pace. However, its potential applications in mental health care are only beginning to be explored. One area where AI can have a significant impact is in promoting positive thinking and improving wellbeing.
 

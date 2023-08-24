@@ -1,5 +1,3 @@
-Using AI for Personalized Positive Statements and Affirmations
-========================================================================================================================
 
 In this chapter, we will focus on how AI can be used to create personalized positive statements and affirmations to improve self-talk. We will discuss how AI algorithms can analyze data such as mood, behavior, and personal preferences to provide customized recommendations.
 

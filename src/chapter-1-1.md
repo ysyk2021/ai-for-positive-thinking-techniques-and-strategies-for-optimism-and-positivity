@@ -1,5 +1,3 @@
-Understanding the Role of AI in Promoting Positive Thinking
-================================================================================================================
 
 In this chapter, we will introduce the concept of AI for positive thinking and explore the role of AI in promoting positive thinking.
 

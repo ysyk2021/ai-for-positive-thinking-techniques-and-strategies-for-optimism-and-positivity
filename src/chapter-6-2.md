@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-============================================================================================================
 
 As with any application of AI, there are ethical and bias considerations that must be taken into account when using AI for positive thinking. In this chapter, we will discuss how to manage ethics and bias in AI-driven positive thinking to mitigate risks and ensure compliance.
 

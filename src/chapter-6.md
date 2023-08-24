@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Positive Thinking
-==================================================================
 
 As AI-driven positive thinking becomes more prevalent, managing ethical and bias concerns becomes increasingly important. In this chapter, we will delve into the potential risks associated with AI-driven positive thinking practices and explore strategies for mitigating those risks.
 

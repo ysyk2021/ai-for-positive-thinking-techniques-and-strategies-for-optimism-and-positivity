@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Positive Thinking Practices
-==================================================================================================================
 
 In this chapter, we will introduce the concept of using AI for positive thinking and explore the benefits of incorporating AI into positive thinking practices.
 

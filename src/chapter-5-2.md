@@ -1,5 +1,3 @@
-AI-Assisted Conflict Resolution and Negotiation
-=================================================================================================================
 
 One of the most exciting ways in which AI can be used to promote positivity is by assisting in conflict resolution and negotiation. By leveraging AI's capabilities in data analysis, natural language processing, and decision making, we can develop tools that support fair and effective conflict resolution.
 

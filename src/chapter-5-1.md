@@ -1,5 +1,3 @@
-AI-Driven Cognitive Behavioral Therapy and Mindfulness Practices
-==================================================================================================================================
 
 AI has the potential to revolutionize mental health care by providing greater accessibility and improving the effectiveness of existing therapies. One area in which AI is particularly promising is cognitive behavioral therapy (CBT) and mindfulness practices, which can improve decision making and problem solving by promoting positive thought patterns and reducing stress.
 
