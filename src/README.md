@@ -6,3 +6,7 @@ This book, "AI for Positive Thinking: Techniques and Strategies for Optimism and
 Overall, this book aims to provide a comprehensive overview of how individuals and organizations can leverage the power of AI to develop and maintain positive thinking practices. Whether you are seeking to improve your own outlook or looking to implement AI-driven positive thinking practices in your organization, this book offers practical insights and strategies that can help you achieve your goals.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
