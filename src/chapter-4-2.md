@@ -1,5 +1,4 @@
-Chapter 12: Automated Feedback and Analysis Using AI
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential of automated feedback and analysis using artificial intelligence (AI) in the context of positive thinking techniques and strategies. AI-powered systems can offer valuable insights, personalized feedback, and data-driven analysis to support individuals in their journey towards optimism and positivity. This chapter will delve into the benefits, challenges, and considerations associated with automated feedback and analysis in AI applications for positive thinking.
 

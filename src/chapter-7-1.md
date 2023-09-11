@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends in AI for Positive Psychology and Well-Being
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in the field of artificial intelligence (AI) for positive psychology and well-being. As technology continues to advance, AI is playing an increasingly significant role in supporting individuals' mental health, positive thinking, and overall well-being. This chapter will delve into the latest trends and developments in AI applications, showcasing their potential to enhance positive psychology practices.
 

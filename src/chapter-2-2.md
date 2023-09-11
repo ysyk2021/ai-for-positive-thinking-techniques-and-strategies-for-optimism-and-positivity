@@ -1,5 +1,4 @@
-Chapter 6: Selecting the Right Tools for Your Positive Thinking Needs
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the process of selecting the right tools for your positive thinking needs when utilizing artificial intelligence (AI) techniques and strategies. With a wide range of AI-powered applications available, it is essential to choose tools that align with your goals, preferences, and individual requirements. This chapter will guide you through important considerations and factors to help you make informed decisions when selecting AI tools for positive thinking.
 

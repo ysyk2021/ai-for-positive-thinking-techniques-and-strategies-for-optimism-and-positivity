@@ -1,5 +1,4 @@
-Chapter 10: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of mitigating risks and ensuring compliance when utilizing AI for positive thinking techniques and strategies. While AI can offer valuable tools and insights to promote optimism and positivity, it is essential to address potential risks and adhere to ethical guidelines. This chapter will delve into strategies for mitigating risks and maintaining compliance in the context of AI applications for positive thinking.
 

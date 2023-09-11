@@ -1,5 +1,4 @@
-Chapter 8: AI-Assisted Conflict Resolution and Negotiation
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) in assisting with conflict resolution and negotiation processes. Conflict and interpersonal disputes can hinder positive thinking and well-being. However, AI-powered tools and techniques offer innovative approaches to support individuals in navigating conflicts, fostering constructive dialogue, and finding mutually beneficial solutions. This chapter will examine the potential applications, benefits, and considerations associated with AI-assisted conflict resolution and negotiation.
 
